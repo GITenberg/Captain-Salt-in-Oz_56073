@@ -1,0 +1,58 @@
+_repo: Captain-Salt-in-Oz_56073
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Martin, Dick
+    alias: Martin, Dickinson Payne
+    birthdate: 1927
+    deathdate: 1990
+    gutenberg_agent_id: '48657'
+    url: http://www.gutenberg.org/2009/agents/48657
+  - agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+  other_contributor:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Staunton, Schuyler
+    - Fitzgerald, Hugh
+    - Akers, Floyd
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Fitzgerald, Capt. Hugh
+    - Metcalf, Suzanne
+    - Cooke, John Estes
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+creator:
+  author:
+    agent_name: Thompson, Ruth Plumly
+    birthdate: 1893
+    deathdate: 1976
+    gutenberg_agent_id: '34661'
+    url: http://www.gutenberg.org/2009/agents/34661
+description: ''
+gutenberg_issued: '2017-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- GITenberg
+title: Captain Salt in Oz
+url: http://www.gutenberg.org/ebooks/56073
