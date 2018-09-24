@@ -1,5 +1,5 @@
 _repo: Captain-Salt-in-Oz_56073
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Martin, Dick
@@ -32,6 +32,9 @@ contributor:
     gutenberg_agent_id: '42'
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+covers:
+- cover_type: archival
+  image_path: 56073-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Ruth Plumly
@@ -40,6 +43,8 @@ creator:
     gutenberg_agent_id: '34661'
     url: http://www.gutenberg.org/2009/agents/34661
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56073#Captain-Salt-in-Oz
 gutenberg_issued: '2017-11-28'
 gutenberg_type: Text
 identifiers:
